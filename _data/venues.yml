@@ -7,3 +7,18 @@
 
 "Vision":
   color: "#009f36"
+
+"Article":
+  color: "#1f4e79"
+
+"Review":
+  color: "#7b3f8c"
+
+"Preprint":
+  color: "#b26a00"
+
+"Chapter":
+  color: "#2e7d32"
+
+"Book":
+  color: "#2e7d32"
