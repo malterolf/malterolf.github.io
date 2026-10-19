@@ -7,6 +7,14 @@ nav: true
 nav_order: 2
 ---
 
+<style>
+  .publications h2.bibliography {
+    color: var(--global-text-color) !important;
+    opacity: 0.75;
+    font-weight: 500;
+  }
+</style>
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
