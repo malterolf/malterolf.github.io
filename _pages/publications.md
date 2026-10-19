@@ -13,6 +13,10 @@ nav_order: 2
     opacity: 0.75;
     font-weight: 500;
   }
+  .publications .abbr .badge {
+    font-size: 0.85rem;
+    padding: 0.5em 0.4em;
+  }
 </style>
 
 <!-- _pages/publications.md -->
