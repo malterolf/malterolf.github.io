@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher · <a href="https://www.ltm.tf.fau.de/">FAU Erlangen-Nürnberg</a> · <a href="https://www.biomech.tugraz.at/">Graz University of Technology</a> · <em>formerly Malte Rolf-Pissarczyk</em>
+subtitle: >
+  <img src="/assets/img/banner_AD.png" alt="Simulation of aortic dissection"
+  style="width:100%; height:220px; object-fit:cover; border-radius:8px; margin:0.5rem 0 1rem 0;">
+  Postdoctoral Researcher · <a href="https://www.ltm.tf.fau.de/">FAU Erlangen-Nürnberg</a> · <a href="https://www.biomech.tugraz.at/">Graz University of Technology</a> · <em>formerly Malte Rolf-Pissarczyk</em>
 
 profile:
   align: right
