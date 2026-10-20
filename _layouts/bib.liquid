@@ -172,7 +172,23 @@
     {% elsif entry.type == 'book' %}
       {% capture entrytype %}<em>{{ entry.publisher }}</em>{% endcapture %}
     {% elsif entry.type == 'incollection' %}
-      {% capture entrytype %}<em>In {{ entry.booktitle }}</em>, {{ entry.publisher }}{% endcapture %}
+      {%- capture editor_list -%}
+        {%- if entry.editor -%}
+          {%- assign editors = entry.editor | split: ' and ' -%}
+          {%- for ed in editors -%}
+            {%- assign parts = ed | split: ', ' -%}
+            {%- if parts.size > 1 -%}
+              {%- assign firstnames = parts[1] | split: ' ' -%}
+              {%- for fn in firstnames -%}{{ fn | slice: 0 }}.{%- endfor %} {{ parts[0] }}
+            {%- else -%}
+              {{ ed }}
+            {%- endif -%}
+            {%- unless forloop.last -%}{%- if forloop.rindex == 2 %} and {% else %}, {% endif -%}{%- endunless -%}
+          {%- endfor -%}
+          {%- if editors.size > 1 %} (Eds.){% else %} (Ed.){% endif -%}
+        {%- endif -%}
+      {%- endcapture -%}
+      {% capture entrytype %}In: {% if editor_list != '' %}{{ editor_list }}, {% endif %}<em>{{ entry.booktitle }}</em>{% if entry.publisher %}, {{ entry.publisher }}{% endif %}{% endcapture %}
     {% elsif proceedings contains entry.type %}
       {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
     {% elsif thesis contains entry.type %}
