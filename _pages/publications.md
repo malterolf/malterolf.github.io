@@ -27,6 +27,9 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<h2 class="bibliography">preprints</h2>
+{% bibliography --query @*[keywords=preprint] --group_by none %}
+
+{% bibliography --query @*[keywords!=preprint] %}
 
 </div>
