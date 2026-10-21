@@ -4,8 +4,6 @@ title: about
 permalink: /
 banner: /assets/img/banner_AD.png
 banner_alt: Simulation of aortic dissection
-subtitle: >
-  Postdoctoral Researcher · <a href="https://www.ltm.tf.fau.de/">FAU Erlangen-Nürnberg</a> · <a href="https://www.biomech.tugraz.at/">Graz University of Technology</a> · <em>formerly Malte Rolf-Pissarczyk</em>
 
 profile:
   align: right
