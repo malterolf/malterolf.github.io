@@ -34,7 +34,7 @@ Since March 2025, I have been a postdoctoral researcher at the [Institute of App
 
 During my doctoral studies, I spent a year at the University of California, Berkeley, in 2016 and 2017 as a visiting researcher working with Prof. Panayiotis Papadopoulos, followed by a three-month research stay with Prof. Alison L. Marsden at Stanford University in 2022. Since then, I have remained connected to Stanford as a sponsored affiliate and currently return regularly for shorter visits to work with Prof. Ellen Kuhl.
 
-#### Research interests
+#### research interests
 
 - Multiscale material modeling and model discovery for soft tissues
 - Modeling and simulation of diseased arteries, especially aortopathies
