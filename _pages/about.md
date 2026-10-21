@@ -2,44 +2,42 @@
 layout: about
 title: about
 permalink: /
+banner: /assets/img/banner_AD.png
+banner_alt: Simulation of aortic dissection
 subtitle: >
-  <img src="/assets/img/banner_AD.png" alt="Simulation of aortic dissection"
-  style="width:100%; height:220px; object-fit:cover; border-radius:8px; margin:0.5rem 0 1rem 0;">
   Postdoctoral Researcher · <a href="https://www.ltm.tf.fau.de/">FAU Erlangen-Nürnberg</a> · <a href="https://www.biomech.tugraz.at/">Graz University of Technology</a> · <em>formerly Malte Rolf-Pissarczyk</em>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Institute of Applied Mechanics</p>
     <p>Friedrich-Alexander-Universität Erlangen-Nürnberg</p>
-    <p>Erlangen, Germany</p>
+    <p>Germany</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-I am a postdoctoral researcher at the Institute of Applied Mechanics, Friedrich-Alexander-Universität Erlangen-Nürnberg, working with Prof. Ellen Kuhl, and hold a part-time postdoctoral position at the Institute of Biomechanics, Graz University of Technology, with Prof. Gerhard A. Holzapfel. I received my PhD in Biomedical Engineering with distinction from Graz University of Technology in 2024 under my former name Malte Rolf-Pissarczyk. Research stays took me to UC Berkeley and Stanford University, where I have been a sponsored affiliate member since 2022.
+Since March 2025, I have been a postdoctoral researcher at the [Institute of Applied Mechanics](https://www.ltm.tf.fau.de/) at Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany, working within Prof. [Ellen Kuhl](https://livingmatter.stanford.edu/)'s European Research Council Advanced Grant _DISCOVER_. I also continue to collaborate closely with the group of Prof. Gerhard A. Holzapfel at the [Institute of Biomechanics](https://www.biomech.tugraz.at/) at Graz University of Technology, Austria. This is where I completed my PhD in Biomedical Engineering with distinction in 2024, and I was fortunate to see my dissertation recognized with several national and international awards.
 
-My research combines continuum mechanics, machine learning and Bayesian inference to build computational models of soft biological tissues for in silico medicine. A central application is aortic dissection, where I study the pathological mechanisms from the microstructure of the aortic wall to patient-specific fluid–structure interaction. A second line of my work addresses the credibility of such models through verification, validation and uncertainty quantification.
+During my doctoral studies, I spent a year at the University of California, Berkeley, in 2016 and 2017 as a visiting researcher working with Prof. Panayiotis Papadopoulos, followed by a three-month research stay with Prof. Alison Marsden at Stanford University in 2022. Since then, I have remained connected to Stanford as a sponsored affiliate and currently return regularly for shorter visits to work with Prof. Ellen Kuhl.
 
-**Research interests**
+#### Research interests
 
 - Multiscale material modeling and model discovery for soft tissues
-- Modeling and simulation of aortopathies
+- Modeling and simulation of diseased arteries, especially aortopathies
 - Growth and remodeling of arterial tissue and regenerative biomaterials
-- Verification, validation and uncertainty quantification of in silico models
+- Verification, validation, and uncertainty quantification of in silico models
 - Surrogate-based uncertainty quantification with Bayesian inference
-
-My doctoral thesis on material and computational modeling of aortic dissection received three national and international best thesis awards.
