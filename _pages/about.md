@@ -12,9 +12,11 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>Institute of Applied Mechanics</p>
-    <p>Friedrich-Alexander-Universität Erlangen-Nürnberg</p>
-    <p>Germany</p>
+    <div style="text-align:center;">
+      <p>Postdoctoral researcher</p>
+      <p>Institute of Applied Mechanics</p>
+      <p>FAU Erlangen-Nürnber, Germanyg</p>
+    </div>
 
 selected_papers: true
 social: true
