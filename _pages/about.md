@@ -13,7 +13,7 @@ profile:
     <div style="text-align:center;">
       <p>Postdoctoral researcher</p>
       <p>Institute of Applied Mechanics</p>
-      <p>FAU Erlangen-Nürnber, Germanyg</p>
+      <p>FAU Erlangen-Nürnber, Germany</p>
     </div>
 
 selected_papers: true
