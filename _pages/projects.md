@@ -5,7 +5,7 @@ permalink: /projects/
 description: current and past project involvement
 nav: true
 nav_order: 3
-display_categories: [projects]
+display_categories: [research position, leadership]
 horizontal: false
 ---
 
