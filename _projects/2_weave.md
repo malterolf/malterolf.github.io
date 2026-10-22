@@ -4,7 +4,7 @@ title: Investigation of factors influencing pathological tortuosity of the carot
 description: Funded by FWF/DFG (weave programme), 2026–2029
 img: assets/img/project_carotid.jpg
 importance: 2
-category: projects
+category: lead roles
 related_publications: false
 ---
 
