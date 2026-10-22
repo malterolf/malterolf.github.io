@@ -4,7 +4,7 @@ title: Mechanics, modeling, and simulation of aortic dissection
 description: Funded by Graz University of Technology, Austria (LEAD project)
 img: assets/img/project_lead.jpg
 importance: 1
-category: contributed
+category: contributions
 related_publications: true
 ---
 
