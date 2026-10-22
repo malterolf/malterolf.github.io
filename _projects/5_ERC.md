@@ -3,7 +3,7 @@ layout: page
 title: DISCOVER
 description: Funded by EU (ERC advanced from Ellen Kuhl), 2024-29
 img: assets/img/project_lead.jpg
-importance: 1
+importance: 2
 category: contributed
 related_publications: true
 ---
