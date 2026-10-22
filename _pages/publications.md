@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Preprints, Journal articles, book chapters, and books.
+description: preprints, original and review articles, book chapters, and books.
 nav: true
 nav_order: 2
 ---
