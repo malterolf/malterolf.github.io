@@ -9,6 +9,14 @@ display_categories: [lead roles, contributions]
 horizontal: false
 ---
 
+<style>
+  .projects h2.category {
+    color: var(--global-text-color) !important;
+    opacity: 0.75;
+    font-weight: 500;
+  }
+</style>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
