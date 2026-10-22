@@ -40,4 +40,4 @@ During my doctoral studies, I spent a year at the University of California, Berk
 - Modeling and simulation of diseased arteries, especially aortopathies
 - Growth and remodeling of arterial tissue and regenerative biomaterials
 - Verification, validation, and uncertainty quantification of in silico models
-- Surrogate-based uncertainty quantification with Bayesian inference
+- Uncertainty quantification with Bayesian inference
