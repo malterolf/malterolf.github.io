@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i>In silico<\i> testing and validation of cardiovascular implantable devices (SIMCor)
+title: <i>In silico</i> testing and validation of cardiovascular implantable devices (SIMCor)
 description: Funded by European Union (EU)<br>(horizon 2020)<br>2021–2024
 img: assets/img/project_simcor.png
 importance: 3
