@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Investigation of factors influencing pathological tortuosity of the carotid artery - hemodynamics, morphometry, and tissue mechanics
-description: Funded by FWF/DFG (weave programme), 2026–2029
+description: Funded by FWF/DFG<br>(weave programme)<br>2026–2029
 img: assets/img/project_weave.png
 importance: 2
 category: lead roles
