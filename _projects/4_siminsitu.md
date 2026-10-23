@@ -20,7 +20,3 @@ Briefly, in this project, we (TU Graz, Institute of Biomechanics) are responsibl
 
 Institute of Biomechanics, Graz University of Technology, Austria (lead)<br>
 ... 
-
-**Related publications**
-
-<!--{% cite Verstraeten2027a %}
