@@ -1,7 +1,7 @@
 ---
 layout: page
-title: In silico testing and validation of cardiovascular implantable devices
-description: Funded by EU (horizon 2020), 2021–2024
+title: <i>In silico<i> testing and validation of cardiovascular implantable devices (SIMCor)
+description: Funded by European Union (EU)<br>(horizon 2020)<br>2021–2024
 img: assets/img/project_simcor.png
 importance: 3
 category: lead roles
@@ -14,6 +14,11 @@ In particular, SIMCor innovative virtual cohort technology will allow to generat
 
 Briefly, in this project, we (TU Graz, Institute of Biomechanics) are responsible for the development of constitutive models of the ascending aorta and the pulmonary artery for the deployment of virtual devices in the cardiovascular system and the simulation of device-specific effects in regard to safety, efficacy and usability endpoints. In addition, we perform experimental tests on animal and human tissues, which include mechanical tests and structural investigations, to validate the developed constitutive models.
 
+**Partners**
+
+Institute of Biomechanics, Graz University of Technology, Austria (lead)<br>
+... 
+
 **Related publications**
 
-{% cite verstraeten2027simcor rolf2027validation %}
+{% cite Verstraeten2027a %}
