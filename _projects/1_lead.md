@@ -14,6 +14,12 @@ In particular, new multiscale constitutive models that include innovative parame
 
 The Lead project will be carried out in the frame of the Graz Center of Computational Engineering (GCCE), which has been founded in 2016 as an interdisciplinary cooperation platform for basic research in the realm of computational science and engineering. The mission of GCCE is to improve computational techniques and its applicability by bringing together the expertise of leading scientists form different areas.
 
+
+**Partners**
+
+Institute of Biomechanics, Graz University of Technology, Austria (lead)<br>
+... and nine other institutes at Graz University of Technology
+
 **Related publications**
 
-#{% cite rolfpissarczyk2021elastin rolfpissarczyk2021smc ranftl2022stochastic schussnig2024fsi baeumler2025remodeling rolfpissarczyk2025mechanisms pepe2020review %}
+{% cite Rolfpissarczyk2021a Rolfpissarczyk2021b %}
