@@ -1,6 +1,6 @@
 ---
 layout: page
-title: In silico development and clinical trial platform for in situ tissue-engineered heart valves
+title: <i>In silico<i> development and clinical trial platform for <i>in situ<i> tissue-engineered heart valves (SimInSitu)
 description: Funded by EU (horizon 2020), 2021–2025
 img: assets/img/project_siminsitu.png
 importance: 4
@@ -16,6 +16,11 @@ Advanced computer modeling and simulation technologies have the potential to ove
 
 Briefly, in this project, we (TU Graz, Institute of Biomechanics) are responsible for the material characterization of the scaffold material by performing mechanical investigations such as uniaxial and biaxial extension tests. The experimental results are then used to develop constitutive models, which describe the (short-term) behavior of the scaffold material. The developed constitutive models are subsequently implemented in the commercial finite element software Abaqus to perform computational investigations both with an implicit and an explicit solver. In the further, the implemented constitutive models are verified and validated to obtain accurate results.
 
+**Partners**
+
+Institute of Biomechanics, Graz University of Technology, Austria (lead)<br>
+... 
+
 **Related publications**
 
-{% cite terzano2023scaffolds wollner2023viscoelasticity shirazi2025restoration %}
+<!--{% cite Verstraeten2027a %}
