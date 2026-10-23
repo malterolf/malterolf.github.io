@@ -15,11 +15,12 @@ The aim of this project is to study the origin and temporal progression of patho
 To address this hypothesis, the project adopts an interdisciplinary approach integrating medical imaging, patient-specific computational modeling, experimental biomechanics, and advanced numerical simulations. First, a digital database of patient-specific carotid geometries will be established using medical imaging data. These geometries will be analyzed using statistical shape modeling to identify characteristic variations associated with pathological deformation. Second, mechanical testing of vessel wall samples will characterize tissue properties and support realistic material modeling, while also improving our understanding of the underlying mechanobiological processes. Third, computational simulations of blood flow and vessel wall deformation will quantify hemodynamic and biomechanical factors and their interaction. Finally, an iterative modeling framework will describe the temporal evolution and progression of the pathology.
 
 **Partners**
-Institute of Biomechanics, Graz University of Technology, Austria (lead)
+
+Institute of Biomechanics, Graz University of Technology, Austria (lead)<br>
 Institute of Computer-assisted Cardiovascular Medicine, Deutsches Herzzentrum der Charité, Germany
 
 **Related publications**
 
 no publications
 
-#{% cite rolfpissarczyk2021elastin rolfpissarczyk2021smc %}
+<!-- {% cite rolfpissarczyk2021elastin rolfpissarczyk2021smc %}
