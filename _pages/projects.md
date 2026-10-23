@@ -15,6 +15,10 @@ horizontal: false
     opacity: 0.75;
     font-weight: 500;
   }
+  .projects .card-title {
+    font-size: 1.2rem;
+    line-height: 1.3;
+  }
 </style>
 
 <!-- pages/projects.md -->
