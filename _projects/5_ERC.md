@@ -12,7 +12,3 @@ related_publications: true
 **Partners**
 
 Institute of Applied Mechanics, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
-
-**Related publications**
-
-<!--#{% cite rolfpissarczyk2021elastin rolfpissarczyk2021smc ranftl2022stochastic schussnig2024fsi baeumler2025remodeling rolfpissarczyk2025mechanisms pepe2020review %}
