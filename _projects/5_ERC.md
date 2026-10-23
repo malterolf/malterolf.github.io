@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DISCOVER
+title: Automated model discovery for soft matter systems
 description: Funded by EU (ERC advanced from Ellen Kuhl), 2024-29
 img: assets/img/project_erc.png
 importance: 5
