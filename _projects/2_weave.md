@@ -18,9 +18,3 @@ To address this hypothesis, the project adopts an interdisciplinary approach int
 
 Institute of Biomechanics, Graz University of Technology, Austria (lead)<br>
 Institute of Computer-assisted Cardiovascular Medicine, Deutsches Herzzentrum der Charité, Germany
-
-**Related publications**
-
-no publications
-
-<!-- {% cite rolfpissarczyk2021elastin rolfpissarczyk2021smc %}
