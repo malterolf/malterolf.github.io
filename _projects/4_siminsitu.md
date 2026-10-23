@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i>In silico<\i> development and clinical trial platform for <i>in situ<\i> tissue-engineered heart valves (SimInSitu)
+title: <i>In silico</i> development and clinical trial platform for <i>in situ</i> tissue-engineered heart valves (SimInSitu)
 description: Funded by European Union (EU)<br>(horizon 2020)<br>2021–2025
 img: assets/img/project_siminsitu.png
 importance: 4
