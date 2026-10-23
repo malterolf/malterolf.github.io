@@ -18,7 +18,7 @@ horizontal: false
   .projects .card-title {
     font-size: 1.2rem;
     line-height: 1.3;
-    ext-align: center;
+    ext-align: center !important;
   }
 </style>
 
