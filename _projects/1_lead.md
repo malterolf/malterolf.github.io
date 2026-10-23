@@ -18,7 +18,3 @@ The Lead project will be carried out in the frame of the Graz Center of Computat
 
 Institute of Biomechanics, Graz University of Technology, Austria (lead)<br>
 ... and nine other institutes at Graz University of Technology
-
-**Related publications**
-
-{% cite Rolfpissarczyk2021a Rolfpissarczyk2021b %}
