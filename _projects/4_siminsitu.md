@@ -5,7 +5,7 @@ description: Funded by European Union (EU)<br>(horizon 2020)<br>2021–2025
 img: assets/img/project_siminsitu.png
 importance: 4
 category: lead roles
-related_publications: true
+related_publications: false
 ---
 
 SimInSitu is aiming to develop a sophisticated in-silico method to predict the short- and long-term behavior of in-situ tissue engineered heart valves (TEHV) by combing advanced tissue remodeling algorithms with a personalized virtual heart modeling approach. The method will be specifically developed to predict the complex transformation process of biodegradable heart valves from the initially synthetic scaffold into a fully remodeled and functional valve.
