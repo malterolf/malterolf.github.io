@@ -5,7 +5,7 @@ description: Funded by European Union (EU)<br>(ERC advanced from Ellen Kuhl)<br>
 img: assets/img/project_erc.png
 importance: 5
 category: contributions
-related_publications: true
+related_publications: false
 ---
 ...
 
