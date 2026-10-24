@@ -5,7 +5,7 @@ description: "Funded by Graz University of Technology, Austria <br> (LEAD projec
 img: assets/img/project_lead.png
 importance: 1
 category: contributions
-related_publications: true
+related_publications: false
 ---
 
 In the Lead project a consortium of scientists from biomechanical-, civil-, electrical-, and mechanical engineering, computer science, mathematics, and physics from TU Graz has set itself the goal of unraveling the cause and the formation of the various stages of an aortic dissection (AD). Advanced computational tools and algorithms will be developed to assist clinicians with the diagnosis, treatment, and management of AD patients. In addition, related topics such as the optimization of implants, the better design for tissue engineering and of coatings and stent platforms for drug delivery will be investigated.
