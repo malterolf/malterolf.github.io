@@ -5,7 +5,7 @@ description: Funded by European Union (EU)<br>(horizon 2020)<br>2021–2024
 img: assets/img/project_simcor.png
 importance: 3
 category: lead roles
-related_publications: true
+related_publications: false
 ---
 
 The complexity and speed of technological innovation with ever shorter product cycles leads to an enormous demand for standardized best practices in order to apply in-silico validation methods in a statistically robust, repeatable, and efficient manner. SIMCor will address this challenge by providing manufacturers of cardiovascular implantable devices with an open, reusable, cloud-based platform for in-silico testing to accelerate development and regulatory approval of their products. The platform will support device validation along the whole R&D pipeline: from initial modeling and in-vitro experiments to animal studies and device implantation and effect simulation on human cohorts.
