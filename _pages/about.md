@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+subtitle: <em>(formerly Malte Rolf-Pissarczyk)</em>
 banner: /assets/img/banner_AD.png
 banner_alt: Simulation of aortic dissection
 
