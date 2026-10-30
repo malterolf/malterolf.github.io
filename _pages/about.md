@@ -39,5 +39,5 @@ During my doctoral studies, I spent a year at the University of California, Berk
 - Multiscale material modeling and model discovery for soft tissues
 - Modeling and simulation of diseased arteries, especially aortopathies
 - Growth and remodeling of arterial tissue and regenerative biomaterials
-- Verification, validation, and uncertainty quantification of in silico models
+- Verification, validation, and uncertainty quantification of <i>in silico</i> models
 - Uncertainty quantification with Bayesian inference
